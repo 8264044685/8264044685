@@ -45,8 +45,8 @@ I'm a passionate Python, Django, Node.js, ReactJS developer with experience in b
 ## Get in Touch
 
 - GitHub: [Paras-Dabhi](https://github.com/8264044685)
-- LinkedIn: [pratik ranpariya](https://www.linkedin.com/in/parasdabhi1996/)
-- Email: parasdabhi1996@gmail.com
+- LinkedIn: [Paras Dabhi](https://www.linkedin.com/in/parasdabhi1996/)
+- Email: parasdabhi2023@gmail.com
 
 
 Let's connect and discuss exciting opportunities!
